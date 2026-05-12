@@ -1,6 +1,5 @@
 name: Smoke test
 
-# Запускать при создании/обновлении PR в main
 on:
   pull_request:
     branches: [ main, master ]
